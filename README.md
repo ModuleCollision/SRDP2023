@@ -1,4 +1,4 @@
-## SRDP_2023 
+## SRDP2023 
 基于Yolo3框架与Python-keras库实现动态目标检测
 
 ## Yolo3-keras 实现
